@@ -1,2 +1,2 @@
 # Add your variables here
-nm
+first_number = 3
